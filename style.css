@@ -178,7 +178,12 @@ header {
     color: #8d7767;
     letter-spacing: 2px;
 }
-
+.product-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    padding: 30px;
+}
 .product-card h3 {
     margin: 20px 15px 5px;
     font-family: Georgia, serif;
