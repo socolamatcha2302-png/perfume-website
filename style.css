@@ -179,8 +179,8 @@ header {
     letter-spacing: 2px;
 }
 .product-image img {
-    width: 70%;
-    height: 70%;
+    width: 85%;
+    height: 85%;
     object-fit: contain;
 }
 .product-card h3 {
